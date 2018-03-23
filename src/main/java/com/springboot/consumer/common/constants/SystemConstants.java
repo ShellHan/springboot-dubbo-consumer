@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.springboot.common.constants;
+package com.springboot.consumer.common.constants;
 
 /**
 * @description: 
